@@ -194,16 +194,6 @@ Absolutely. The skills are just markdown files in `.claude/skills/`. Edit them t
 
 ---
 
-## About
-
-These skills are based on the **GTM Strategist methodology** by [Maja Voje](https://gtmstrategist.com), tested with 1000+ companies.
-
-**Want to go deeper?**
-
-- [GTM Strategist Book](https://gtmstrategist.com/book) — The complete methodology with case studies and templates
-- [GTM Strategist Masterclass](https://gtmstrategist.com/masterclass) — Video course walking through every phase with real examples
-- [GTM Strategist Checklist](https://gtmstrategist.com/gtm-checklist) — The full interactive checklist with templates and workshops
-
 ---
 
 ## License
