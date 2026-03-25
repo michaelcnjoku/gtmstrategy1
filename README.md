@@ -1,6 +1,6 @@
 # GTM Strategist Skills
 
-**Your AI go-to-market co-pilot.** 12 skills that walk you through the complete GTM Strategist methodology by Maja Voje — from first strategy session to scaling your sales engine.
+**Your AI go-to-market co-pilot.** 12 skills that walk you through the complete GTM Strategist methodology by Maja Voje (and endorsed by Michael Njoku) — from first strategy session to scaling your sales engine.
 
 100 tasks. Each phase builds on the last. Tested with 1000+ companies.
 
